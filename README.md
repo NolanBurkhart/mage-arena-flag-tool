@@ -10,7 +10,7 @@ The easiest option is to download one of the prebuilt binaries.
 - Unzip the archive.
 - Open up the folder where you unzipped it to in File Explorer.
 - Right click on the background in File Explorer, then, click "Open in Terminal". right click on the window in File Explorer.
-- Type: "mage-arena-flag-importer.exe <path to your png>". After this runs, you should be able to load your flag by going into game and clicking "Load from Disk".
+- Type: ```mage-arena-flag-importer.exe <path to your png>```. After this runs, you should be able to load your flag by going into game and clicking "Load from Disk".
 
 If you are compiling the project, ensure that palette.png is in the same directory as the executable and command line.
 
