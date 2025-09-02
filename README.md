@@ -1,5 +1,5 @@
-# mage-arena-flag-tool
-A tool for importing flags into Mage Arena
+# Mage Arena Flag Tool
+A tool for importing easily importing custom flags into Mage Arena
 
 ## Requirements - 
 You will need to resize your flag to 100 x 66px, the tool will not work otherwise. The flag must be formatted as a .png.
